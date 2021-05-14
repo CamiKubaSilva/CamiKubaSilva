@@ -2,18 +2,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m always learning new coding languages 
+- 📫 How to reach me: call me when you want call me when you need call me in the morning Ill be on the way
+- JK! You can reach me on my e-mail: camikubasilva@gmail.com
+- ⚡ Fun fact: I only laugh when I make a joke
 
 </div>
-
-<div align="center"><h3>I'm fullstack developer, Scrum enthusiast (I just love it) and Star Wars fan</h3></div>
+<div align="center">
+<img src='https://cdn.discordapp.com/attachments/839222580254605397/839625040001630244/Benedict-Cumberbatch-in-Sherlock-The-Final-Problem.png' alt = 'Sherlock'/>
+  </div>
+<div align="center"><h3>I'm fullstack developer</h3></div>
 
 <div align="center"><h1>Languajes and tools I know</h1></div>
 <p align="center">
