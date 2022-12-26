@@ -13,9 +13,8 @@ Here are some ideas to get you started:
   </div>
 <div align="center"><h3>I'm fullstack developer</h3></div>
 
-
-
-
+<br>
+<br>
 
 <p align="center">
   <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
