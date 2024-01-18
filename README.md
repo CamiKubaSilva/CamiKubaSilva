@@ -3,9 +3,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m always learning new coding languages 
-- 📫 How to reach me: call me when you want call me when you need call me in the morning Ill be on the way
-- JK! You can reach me on my e-mail: camikubasilva@gmail.com
-- ⚡ Fun fact: I use different keyboards for coding and gaming
+- 📫 How to reach me: camikubasilva@gmail.com
 
 </div>
 <div align="center">
