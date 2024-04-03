@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🌱 I’m always learning new coding languages 
 - 📫 How to reach me: camikubasilva@gmail.com
 
